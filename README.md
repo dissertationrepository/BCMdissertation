@@ -9,4 +9,4 @@ Appendix 2: [biomod2.R](https://github.com/dissertationrepository/BCMdissertatio
 
 Appendix 3: [enmevaluate.R](https://github.com/dissertationrepository/BCMdissertation/blob/main/appdx3-enmevaluate.R)
 
-Appendix 4: prioritizr.R
+Appendix 4: [prioritizr.R](https://github.com/dissertationrepository/BCMdissertation/blob/main/appdx4-prioritizr.R)
