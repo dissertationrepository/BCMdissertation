@@ -5,8 +5,8 @@ Year: 2022
 
 Title: 
 
-Appendix 2: BIOMOD2
+Appendix 2: biomod2.R
 
-Appendix 3: ENMeval
+Appendix 3: enmevaluate.R
 
-Appendix 4: prioritizr SCP algorithm
+Appendix 4: prioritizr.R
