@@ -1,4 +1,4 @@
-# BCM dissertation appendix
+# BCM dissertation R code appendix
 Candidate number: 1058440
 
 Title: 
