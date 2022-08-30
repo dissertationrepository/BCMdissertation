@@ -5,7 +5,7 @@ Year: 2022
 
 Title: 
 
-Appendix 2: biomod2.R
+Appendix 2: [biomod2.R](https://github.com/dissertationrepository/BCMdissertation/blob/main/biomod2.R)
 
 Appendix 3: enmevaluate.R
 
