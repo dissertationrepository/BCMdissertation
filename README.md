@@ -1,5 +1,7 @@
-# BCM dissertation R code appendix
+# BCM dissertation R code appendix 
 Candidate number: 1058440
+
+Year: 2022
 
 Title: 
 
