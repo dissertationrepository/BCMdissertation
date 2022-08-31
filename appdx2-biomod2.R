@@ -14,7 +14,6 @@ mapview(occ, xcol = "POINT_X", ycol = "POINT_Y", crs = 4269, grid = FALSE)
 
 env <-
   raster::stack(c(
-    aspect = 'asc_aspect_proj.asc',
     ndvi = 'asc_ndvi_proj.asc',
     landuse = 'asc_landuse_proj.asc',
     slope = 'asc_slope_proj.asc',
